@@ -1,6 +1,8 @@
 # Portfolio Website Challenge
 Portfolio Website using advanced css. It houses my list of projects for an employer to see, and it contains my contact info in case they want to reach out.
 
+View it here: [https://elmfer.github.io/challenge-02/](https://elmfer.github.io/challenge-02/)
+
 ### What I Learned
 * Flexboxes, specifically on how they structure and align elements responsively.
 * CSS Variables. I found that they are useful for when a certain values are referenced multiple times in a style sheet. They can be quickly changed and affect all styling using it without having to find and replace.
