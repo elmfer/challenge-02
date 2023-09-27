@@ -26,6 +26,7 @@ body {
 header {
     display: flex;
     background-image: var(--header-image);
+    background-size: cover;
     text-shadow: 0 0 15px black;
     padding: var(--header-footer-padding)
 }
@@ -57,6 +58,7 @@ img {
 
 footer {
     background-image: var(--footer-image);
+    background-size: cover;
     padding: var(--header-footer-padding);
     text-shadow: 0 0 15px black;
     display: flex;
