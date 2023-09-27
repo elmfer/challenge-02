@@ -96,4 +96,13 @@ section h3 {
     margin: 0;
     padding: 10px;
     border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: white;
+}
+
+section img {
+    height: 1.5in;
 }
