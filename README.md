@@ -1,4 +1,4 @@
-# Portfolio Website Challenge
+# Portfolio Website
 Portfolio Website using advanced css. It houses my list of projects for an employer to see, and it contains my contact info in case they want to reach out.
 
 View it here: [https://elmfer.github.io/challenge-02/](https://elmfer.github.io/challenge-02/)
@@ -13,7 +13,7 @@ And tiny things like:
 * `list-style` for removing the default bullet points to show a list of links on the nav bar.
 
 ### Screenshot
-![Screenshot](screenshot.png)
+![Screenshot](assets/images/screenshot.png)
 
 ---
 
