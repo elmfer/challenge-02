@@ -1,7 +1,7 @@
 # Portfolio Website
 Portfolio Website using advanced css. It houses my list of projects for an employer to see, and it contains my contact info in case they want to reach out.
 
-View it here: [https://elmfer.github.io/challenge-02/](https://elmfer.github.io/challenge-02/)
+View it here: [https://elmfer.github.io/portfolio/](https://elmfer.github.io/portfolio/)
 
 ### What I Learned
 * Flexboxes, specifically on how they structure and align elements responsively.
